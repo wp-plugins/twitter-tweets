@@ -1,7 +1,7 @@
 === Twitter Tweets ===
 Contributors: weblizar
 Donate link: http://www.weblizar.com/
-Tags: twitter, twitter plugin, twitter widget, twitter tweets
+Tags: twitter, twitter plugin, button, connect, follow button, tvet, tvett, tvit, tviter, tvitt, tweet, tweeter, twett, twit, twiter, twitter connect, tweet, twitter connect, twitter follow, twitter follow button, twitter share, twitter share button, social, stream, tweets, twitter widget, latest tweets, add tweet, twitter shortcode, reply, follow me, like, follow
 Requires at least: 3.0
 Tested up to: 3.9.1
 Stable tag: 0.1
@@ -9,7 +9,7 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
-Twitter Tweets in WordPress Blog
+Twitter Tweets Display your tweets on your website with follow button.
 
 == Description ==
 
@@ -18,6 +18,20 @@ Twitter tweets plugin is a twitter widget plugin display twitter accounts latest
 Twitter tweets plugin allows you to set your twitter account widget Id & twitter username. You can customize twitter widget by apply custom height, auto expand tweets images, custom link URL color, On / Off tweets reply etc.
 
 Using **Twitter Tweets** widget display your least tweets on your WordPress blog site.
+
+**Features**
+
+* Twitter Tweets Widget
+* Widget Customization Settings
+* Widget Title
+* Widget Theme Option
+* Set Widget Height
+* Tweets URL Link Color Option
+* Show/Hide Tweets Reply
+* Add Follow Button
+* Submit Your Tweet live on your website
+* Re tweet and choose your favourite tweets
+* Auto Expand Photos in Tweets 
 
 
 == Features ==
