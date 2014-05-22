@@ -13,11 +13,11 @@ Twitter Tweets in WordPress Blog
 
 == Description ==
 
-Twitter tweets plugin is a twitter widget plugin, display your twitter accounts latest tweets on your WordPress blog.
+Twitter tweets plugin is a twitter widget plugin display twitter accounts latest tweets on your WordPress blog.
 
 Twitter tweets plugin allows you to set your twitter account widget Id & twitter username. You can customize twitter widget by apply custom height, auto expand tweets images, custom link URL color, On / Off tweets reply etc.
 
-Using ** Twitter Tweets ** widget display your least tweets on your WordPress blog site.
+Using **Twitter Tweets** widget display your least tweets on your WordPress blog site.
 
 
 == Features ==
@@ -47,7 +47,7 @@ Please contribute to translate our plugin.  Contact at `lizarweb (at) gmail (dot
 
 1. Upload the entire `twitter-tweets` folder to the `/wp-content/plugins/` directory.
 2. Activate the plugin through the 'Plugins' menu in WordPress.
-3. Go to Widgets in Appearance Menu and activate the *Twitter Tweets* widget.
+3. Go to Widgets in Appearance Menu and activate the **Twitter Tweets** widget.
 
 == Frequently Asked Questions ==
 
