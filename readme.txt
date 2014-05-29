@@ -46,7 +46,7 @@ Using **Twitter Tweets** widget display your least tweets on your WordPress blog
 
 = Docs & Support =
 
-You can find [docs](http://weblizar.com/twitter-tweets/), [FAQ](http://www.weblizar.com/faq/) and more detailed information about Twitter Tweets on [Weblizar](http://www.weblizar.com). If you were unable to find the answer to your question on the FAQ or in any of the documentation, you should check the [support forum](http://weblizar.com/ twitter-tweets/) on WordPress.org.
+You can find [docs](http://weblizar.com/twitter-tweets/), [FAQ](http://www.weblizar.com/faq/) and more detailed information about Twitter Tweets on [Weblizar](http://www.weblizar.com). If you were unable to find the answer to your question on the FAQ or in any of the documentation, you should check the [support forum](http://weblizar.com/twitter-tweets/) on WordPress.org.
 
 = We Need Your Support =
 
@@ -75,7 +75,7 @@ Please use WordPress support forum to ask any query regarding any issue.
 
 == Changelog ==
 
-For more information, see Weblizar(http://wwww.weblizar.com/plugins/).
+For more information, see Weblizar(http://wwww.weblizar.com/).
 
 = 0.1 =
 
