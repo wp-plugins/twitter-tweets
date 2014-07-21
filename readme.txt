@@ -1,10 +1,10 @@
-=== Twitter Tweets ===
+=== Tweets ===
 Contributors: weblizar
 Donate link: http://www.weblizar.com/
-Tags: twitter, twitter plugin, button, connect, follow button, tvet, tvett, tvit, tviter, tvitt, tweet, tweeter, twett, twit, twiter, twitter connect, tweet, twitter connect, twitter follow, twitter follow button, twitter share, twitter share button, social, stream, tweets, twitter widget, latest tweets, add tweet, twitter shortcode, reply, follow me, like, follow
+Tags: twitter, twitter plugin, button, connect, follow button, tvet, tvett, tvit, tviter, tvitt, tweet, tweeter, twett, twit, twiter, twitter connect, tweet, twitter connect, twitter follow, twitter follow button, twitter share, twitter share button, social, button, social button, stream, tweets, twitter widget, latest tweets, add tweet, twitter shortcode, twitter button, reply, follow me, like, follow, twitter news, tweets
 Requires at least: 3.0
 Tested up to: 3.9.1
-Stable tag: 0.1
+Stable tag: 0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -76,6 +76,10 @@ Please use WordPress support forum to ask any query regarding any issue.
 == Changelog ==
 
 For more information, see Weblizar(http://wwww.weblizar.com/).
+
+= 0.2 =
+
+* resolved css error.
 
 = 0.1 =
 
