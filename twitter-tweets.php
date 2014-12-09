@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Twitter Tweets
- * Version: 0.4
+ * Version: 0.5
  * Description: Display latest tweets on WordPress blog from Twitter account.
  * Author: WebLizar
  * Author URI: http://www.weblizar.com
@@ -16,10 +16,6 @@
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
- *
- * You should have received a copy of the GNU General Public License
- * along with this program; if not, write to the Free Software
- * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
  */
 
 /**
@@ -66,19 +62,7 @@ class WeblizarTwitter extends WP_Widget {
         $AutoExpandPhotos   =   apply_filters( 'weblizar_twitter_auto_expand_photo', $instance['AutoExpandPhotos'] );
         $TwitterWidgetId    =   apply_filters( 'weblizar_twitter_widget_id', $instance['TwitterWidgetId'] );
         ?>
-        <!--generated code-->
-        <!--<a class="twitter-timeline"  href="https://twitter.com/weblizar"  data-widget-id="462084801944485888">Tweets by @weblizar</a>
-        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>-->
-
-        <!--default development code-->
-        <!--<a class="twitter-timeline"
-        href="https://twitter.com/weblizar"
-        data-screen-name="weblizar"
-        data-widget-id="462084801944485888"
-        data-related="twitterapi,twitter"
-        data-aria-polite="assertive"
-        data-tweet-limit="5"
-        lang="EN">Tweets by @weblizar</a>-->
+        
 
         <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/<?php echo $TwitterUserName; ?>" min-width="<?php echo $Width; ?>" height="<?php echo $Height; ?>" data-theme="<?php echo $Theme; ?>" data-link-color="<?php echo $LinkColor; ?>px" data-widget-id="<?php echo $TwitterWidgetId; ?>">Twitter Tweets</a>
         <script>
