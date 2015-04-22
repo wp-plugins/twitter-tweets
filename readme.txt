@@ -9,7 +9,7 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
-Twitter Tweets Display your tweets on your website with follow button.
+Display Twitter Tweets Using Widget On WordPress Blog With Follow Button
 
 == Description ==
 
