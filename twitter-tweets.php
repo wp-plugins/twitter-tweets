@@ -1,12 +1,11 @@
 <?php
 /**
  * Plugin Name: Twitter Tweets
- * Version: 0.8
+ * Version: 0.9
  * Description: Display latest tweets on WordPress blog from Twitter account.
  * Author: WebLizar
  * Author URI: http://www.weblizar.com
  * Plugin URI: http://www.weblizar.com/plugins/
- *
  */
 
 /**
@@ -16,11 +15,7 @@ define("WEBLIZAR_TWITTER_PLUGIN_URL", plugin_dir_url(__FILE__));
 define("WEBLIZAR_TWITTER_TEXT_DOMAIN", "weblizar_twitter");
 
 /**
- * Widget Code
- */
-
-/**
- * Adds Foo_Widget widget.
+ * Widget Code.
  */
 class WeblizarTwitter extends WP_Widget {
 
@@ -47,9 +42,7 @@ class WeblizarTwitter extends WP_Widget {
 		// Outputs the content of the widget
 		extract($args); // Make before_widget, etc available.
 		
-		$title = apply_filters('title', $instance['title']);
-		
-		
+		$title = apply_filters('title', $instance['title']);		
 		
 		echo $before_widget;
 		
